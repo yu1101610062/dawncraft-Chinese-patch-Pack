@@ -276,7 +276,7 @@
       "m": ""
     },
     "k": "/dc AddWaypoints @p custom:soul_black_smith \"Soul Blacksmith\"",
-    "v": "/dc AddWaypoints @p custom:soul_black_smith \"Soul Blacksmith\""
+    "v": "/dc AddWaypoints @p custom:soul_black_smith \"灵魂铁匠\""
   },
   {
     "t": {
@@ -284,7 +284,7 @@
       "m": ""
     },
     "k": "/dc AddWaypoints @p custom:burning_arena \"Burning Arena\"",
-    "v": "/dc AddWaypoints @p custom:burning_arena \"Burning Arena\""
+    "v": "/dc AddWaypoints @p custom:burning_arena \"燃烧竞技场\""
   },
   {
     "t": {
@@ -292,7 +292,7 @@
       "m": ""
     },
     "k": "/dc AddWaypoints @p custom:ruined_citadel \"Ruined Citadel\"",
-    "v": "/dc AddWaypoints @p custom:ruined_citadel \"Ruined Citadel\""
+    "v": "/dc AddWaypoints @p custom:ruined_citadel \"废墟城堡\""
   },
   {
     "t": {
@@ -308,7 +308,7 @@
       "m": ""
     },
     "k": "tellraw @a[distance=..100] {\"text\":\"You successfully drove away the witches! ...For now.\",\"color\":\"light_purple\"}",
-    "v": "tellraw @a[distance=..100] {\"text\":\"You successfully drove away the witches! ...For now.\",\"color\":\"light_purple\"}"
+    "v": "tellraw @a[distance=..100] {\"text\":\"你成功赶走了女巫！……暂时如此。\",\"color\":\"light_purple\"}"
   },
   {
     "t": {

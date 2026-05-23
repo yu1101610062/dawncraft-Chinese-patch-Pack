@@ -221,7 +221,7 @@
 	"tooltip.hexerei.herb_jar_shift_6": "右击任意面，可打开其界面。",
 	"tooltip.hexerei.herb_jar_shift_7": "只能容纳一种类型的物品但是能容纳1024个同种物品。",
 	"tooltip.hexerei.candle": "按住 §eSHIFT§r 以获取更多的信息",
-	"tooltip.hexerei.candle_shift": "Candles will provide different benefits based on herbs infused. (WIP)",
+	"tooltip.hexerei.candle_shift": "蜡烛会根据注入的草药提供不同的增益。（开发中）",
 	"tooltip.hexerei.candle_shift_2": "可以和其它本模组的蜡烛放置在同一个方块上",
 	"tooltip.hexerei.candle_shift_3": "可以给它们蘸浸许多的效果和层级",
 	"tooltip.hexerei.candle_dipper": "按住 §eSHIFT§r 以获取更多的信息",
