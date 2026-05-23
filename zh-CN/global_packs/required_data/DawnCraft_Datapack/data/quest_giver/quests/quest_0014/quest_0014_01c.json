@@ -1,44 +1,44 @@
 {
-	"parent": "quest_giver:quest_0014_01b",
-	"reputation": 5,
-	"icon": "minecraft:crossbow",
-	"start": {
-		"title": {
-			"text": "为民除害"
-		},
-		"description": {
-			"text": "考虑到你是个冒险者……很好。帮我找张纸来。我会告诉你我们发现的最近的掠夺者营地的位置。"
-		}
-	},
-	"complete": {
-		"title": {
-			"text": "地图已获取"
-		},
-		"description": {
-			"text": "给你。你可能会提前遇到其他的掠夺者小队。这些可恶的家伙无处不在。"
-		}
-	},
-	"tasks": [
-		{
-			"item": {
-				"item": "minecraft:paper"
-			},
-			"id": "quest_giver:gift",
-			"times": 1
-		}
-	],
-	"rewards": [
-		{
-			"command": "/dc addWaypoint @p #custom:pillager_camp \"主线任务——掠夺者营地\"",
-			"id": "quest_giver:command"
-		},
-		{
-			"command": "/loot give @p loot minecraft:pillager1",
-			"id": "quest_giver:command"
-		},
-		{
-			"command": "/gamestage add @p guildmaster1 true",
-			"id": "quest_giver:command"
-		}
-	]
+  "parent": "quest_giver:quest_0014_01b",
+  "reputation": 5,
+  "icon": "minecraft:crossbow",
+  "start": {
+    "title": {
+      "text": "为民除害"
+    },
+    "description": {
+      "text": "考虑到你是个冒险者……很好。帮我找张纸来。我会告诉你我们发现的最近的掠夺者营地的位置。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "地图已获取"
+    },
+    "description": {
+      "text": "给你。你可能会提前遇到其他的掠夺者小队。这些可恶的家伙无处不在。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/dc addWaypoint @p #custom:pillager_camp \"主线任务——掠夺者营地\"",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/loot give @p loot minecraft:pillager1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster1 true",
+      "id": "quest_giver:command"
+    }
+  ]
 }

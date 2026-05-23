@@ -1,0 +1,12 @@
+{
+  "fpsreducer.config.hudPosAdj.hudInfo.6": "简单的",
+  "fpsreducer.config.menu.noActFps": "无动作时的最大 FPS",
+  "fpsreducer.config.tooltip.guiScreenFps": "GUI 屏幕（例如库存屏幕和菜单屏幕）中的最大 FPS。",
+  "fpsreducer.config.tooltip.idleFps": "空闲状态下的最大 FPS。",
+  "fpsreducer.config.tooltip.noActFps": "无操作时的最大 FPS。检测到无操作后，FPS立即限制为该值。",
+  "fpsreducer.config.tooltip.profile.cooling1": "§e降温§o轻量§r\n适合在后台或暂停菜单中降低负载。将 Eco 模式限制到 60fps，并在 GUI 中把 FPS 限制到 60fps。",
+  "fpsreducer.config.tooltip.profile.cooling2": "§e降温§o强化§r\n更积极地降低后台负载。将 Eco 模式和 GUI 中的 FPS 限制到 30fps。",
+  "fpsreducer.config.tooltip.profile.eco": "§e节能§o模式§r\n让 FPS Reducer 在无操作一段时间后降低 FPS，默认在 ESC 菜单中 10 秒后生效。",
+  "fpsreducer.config.tooltip.profile.modest": "§e适中§o模式§r\n进入 ESC 菜单或窗口失焦时降低 FPS。",
+  "fpsreducer.config.tooltip.waitingTime": "当客户端没有任何操作时，直到客户端转入空闲状态的等待时间。可以通过将滑块移动到右边缘来关闭。"
+}

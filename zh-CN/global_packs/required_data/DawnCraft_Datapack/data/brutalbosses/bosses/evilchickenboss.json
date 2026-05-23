@@ -1,7 +1,7 @@
 {
   "entity": "minecraft:chicken",
   "name": "鬿雀",
-  "visualscale": "1.5",
+  "visualscale": 1.5,
   "experience": 300,
   "effects": {
     "minecraft:slowness": 2,

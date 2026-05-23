@@ -1,6 +1,8 @@
 {
-  "item.idas.music_disc_slither": "音乐唱片",
-  "item.idas.music_disc_calidum": "音乐唱片",
   "item.idas.disc_fragment_slither": "Slither唱片碎片",
+  "item.idas.music_disc_calidum": "音乐唱片",
+  "item.idas.music_disc_calidum.desc": "卡马-卡利杜姆",
+  "item.idas.music_disc_slither": "音乐唱片",
+  "item.idas.music_disc_slither.desc": "卡玛 - 滑行者",
   "itemGroup.idastab": "地牢建筑统合"
 }

@@ -1,0 +1,13 @@
+{
+  "config.rei.options.accessibility.inventory_search_darken_opacity": "昏暗的叠加不透明度",
+  "config.rei.options.accessibility.inventory_search_darken_opacity.desc": "与搜索过滤器不匹配的项目的深色覆盖层的不透明度。",
+  "config.rei.options.accessibility.inventory_search_mode": "模式",
+  "config.rei.options.accessibility.inventory_search_mode.desc": "库存搜索允许您搜索库存中的物品。",
+  "config.rei.options.accessibility.inventory_search_opacity": "高亮不透明度",
+  "config.rei.options.accessibility.inventory_search_opacity.desc": "与搜索过滤器匹配的项目的绿色覆盖层的不透明度。",
+  "config.rei.options.debug.display_registry_analysis": "显示注册表分析",
+  "config.rei.options.debug.display_registry_analysis.desc": "每个类别中展示注册的细分。",
+  "config.rei.options.groups.accessibility.inventory_search": "库存搜索",
+  "text.rei.display_registry_analysis": "显示注册表分析",
+  "text.rei.display_registry_analysis.displays": "%d 显示"
+}

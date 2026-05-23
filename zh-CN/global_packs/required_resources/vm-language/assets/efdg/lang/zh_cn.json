@@ -1,6 +1,10 @@
 {
-	"skill.epicfight.earthquake": "撼地",
-	"skill.epicfight.earthquake.tooltip": "举起你的巨剑然后将它们重重插入地面。\n在释放动画期间，你将获得能够免疫眩晕的超强护甲。",
-	"skill.epicfight.dualgreatsword": "双持巨剑",
-	"skill.epicfight.dualgreatsword.tooltip": "为所有角色中最强壮的人量身定制（当然是史蒂夫了）。\n使你能够双持巨剑。"
+  "skill.efdg.dualgreatsword": "双巨剑",
+  "skill.efdg.dualgreatsword.tooltip": "所有角色中最强者（史蒂夫）的技能。\n",
+  "skill.efdg.earthquake": "地震",
+  "skill.efdg.earthquake.tooltip": "举起你的巨剑并将它们猛击在地上。\n在动画过程中，你拥有防止眩晕的超级装甲。",
+  "skill.epicfight.dualgreatsword": "双持巨剑",
+  "skill.epicfight.dualgreatsword.tooltip": "为所有角色中最强壮的人量身定制（当然是史蒂夫了）。\n使你能够双持巨剑。",
+  "skill.epicfight.earthquake": "撼地",
+  "skill.epicfight.earthquake.tooltip": "举起你的巨剑然后将它们重重插入地面。\n在释放动画期间，你将获得能够免疫眩晕的超强护甲。"
 }

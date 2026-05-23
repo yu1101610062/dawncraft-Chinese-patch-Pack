@@ -1,36 +1,36 @@
 {
-	"parent": "quest_giver:root",
-	"reputation": 12,
-	"icon": "minecraft:iron_sword",
-	"start": {
-		"title": {
-			"text": "那么？"
-		},
-		"description": {
-			"text": "我可以教你技能——紧急逃生。只需要支付给我15个绿宝石。"
-		}
-	},
-	"complete": {
-		"title": {
-			"text": "感谢！"
-		},
-		"description": {
-			"text": "拿好。"
-		}
-	},
-	"tasks": [
-		{
-			"item": {
-				"item": "minecraft:emerald"
-			},
-			"id": "quest_giver:gift",
-			"times": 15
-		}
-	],
-	"rewards": [
-		{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:emergency_escape\"}",
-			"id": "quest_giver:command"
-		}
-	]
+  "parent": "quest_giver:root",
+  "reputation": 12,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "我可以教你技能——紧急逃生。只需要支付给我15个绿宝石。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "拿好。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:emergency_escape\"}",
+      "id": "quest_giver:command"
+    }
+  ]
 }

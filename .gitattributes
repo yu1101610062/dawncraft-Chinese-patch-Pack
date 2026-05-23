@@ -1,0 +1,7 @@
+*.json text eol=lf
+*.snbt text eol=lf
+*.mcfunction text eol=lf
+*.mcmeta text eol=lf
+*.toml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

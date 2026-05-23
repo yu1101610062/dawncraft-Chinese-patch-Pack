@@ -1,0 +1,14 @@
+{
+  "config.dogslie.prop.attemptModWolfSupport.desc": "允许模组尝试添加对模组狼的支持吗？ ",
+  "config.dogslie.prop.attemptModWolfSupport.name": "尝试 Mod Wolf 支持",
+  "config.dogslie.prop.dogsSpawnLying.desc": "如果狗已经坐着了，它们会躺着出生吗？",
+  "config.dogslie.prop.dogsSpawnLying.name": "狗产卵躺着",
+  "config.dogslie.prop.enabledPoses.desc": "已启用的躺卧姿势。",
+  "config.dogslie.prop.enabledPoses.name": "启用躺卧姿势",
+  "config.dogslie.prop.getsUpTo.desc": "狗跟谁在一起。\n",
+  "config.dogslie.prop.getsUpTo.name": "达到...",
+  "config.dogslie.prop.rangeBeforeGettingUp.desc": "在狗起身之前目标到达狗的范围（以方块为单位）",
+  "config.dogslie.prop.rangeBeforeGettingUp.name": "起床前的范围",
+  "config.dogslie.prop.timeBeforeLie.desc": "在狗躺下之前花时间坐着（以蜱虫为单位）。",
+  "config.dogslie.prop.timeBeforeLie.name": "说谎前的时间"
+}

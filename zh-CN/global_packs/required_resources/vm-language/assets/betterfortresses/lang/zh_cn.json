@@ -1,0 +1,10 @@
+{
+  "Use /locate betterfortresses:fortress instead!": "使用 /locate betterfortresses:fortress 代替！",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses": "禁用原版下界堡垒",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.disableVanillaFortresses.@Tooltip": "是否应禁用原版下界堡垒。",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY": "最大起始高度",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMaxY.@Tooltip": "Keep 可以生成的最大 y 值。",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY": "最小起始高度",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.option.general.startMinY.@Tooltip": "Keep 可以生成的最小 y 值。",
+  "text.autoconfig.betterfortresses-fabric-1_18_2.title": "YUNG 的更好的地狱堡垒"
+}

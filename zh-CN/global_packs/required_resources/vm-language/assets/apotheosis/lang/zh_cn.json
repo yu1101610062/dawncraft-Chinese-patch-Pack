@@ -1,3 +1,4 @@
 {
-    "item.apotheosis.potion_charm.curios_only": "仅在饰品槽中生效"
+  "affix.apotheosis.cooldown": "[⌛%s]",
+  "item.apotheosis.potion_charm.curios_only": "仅在饰品槽中生效"
 }

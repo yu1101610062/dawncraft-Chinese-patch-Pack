@@ -1,0 +1,13 @@
+{
+  "create.command.debuginfo.saved_to_clipboard": "调试信息已复制到您的剪贴板。",
+  "create.command.debuginfo.sending": "正在收集调试信息...",
+  "create.schematic.tool.flip.description.2": "",
+  "create.schematic.tool.flip.description.3": "",
+  "create.schematic.tool.move.description.2": "",
+  "create.schematic.tool.move.description.3": "",
+  "create.schematic.tool.move_y.description.2": "",
+  "create.schematic.tool.move_y.description.3": "",
+  "create.schematic.tool.print.description.3": "",
+  "create.schematic.tool.rotate.description.2": "",
+  "create.schematic.tool.rotate.description.3": ""
+}

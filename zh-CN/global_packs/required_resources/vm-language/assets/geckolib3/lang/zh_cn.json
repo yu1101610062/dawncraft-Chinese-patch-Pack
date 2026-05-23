@@ -1,0 +1,11 @@
+{
+  "block.geckolib3.fertilizerblock": "肥料",
+  "block.geckolib3.habitatblock": "壁虎栖息地",
+  "item.geckolib3.geckoarmor_boots": "壁虎装甲靴",
+  "item.geckolib3.geckoarmor_chest": "壁虎盔甲胸甲",
+  "item.geckolib3.geckoarmor_head": "壁虎盔甲头盔",
+  "item.geckolib3.geckoarmor_leggings": "壁虎盔甲护腿",
+  "item.geckolib3.jackintheboxitem": "盒子里的杰克",
+  "item.geckolib3.pistol": "手枪",
+  "itemGroup.geckolib_examples": "Geckolib 示例"
+}

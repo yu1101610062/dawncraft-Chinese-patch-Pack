@@ -1,0 +1,23 @@
+{
+  "display": {
+    "title": {
+      "text": "受骗"
+    },
+    "description": {
+      "text": "被炼金术士骗了。"
+    },
+    "icon": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "Start": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "custom:root"
+}

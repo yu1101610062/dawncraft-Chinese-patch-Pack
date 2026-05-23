@@ -1,0 +1,6 @@
+{
+  "block.comforts.hammock.missing_rope": "要挂上吊床，另一端还必须有一个绳与钉",
+  "block.comforts.hammock.no_rope": "你必须把吊床挂在一对绳与钉之间",
+  "block.comforts.hammock.no_sleep.2": "你只能在白天、晚上或在雷暴期间入眠",
+  "block.comforts.hammock.no_space": "空间不足，无法容纳吊床"
+}

@@ -1,0 +1,11 @@
+{
+  "enchantment.hunterillager.bounce": "弹跳",
+  "hunterillager.config.attackableWhitelist": "邪猎者攻击目标白名单",
+  "hunterillager.config.foodWhitelist": "邪猎者食物白名单",
+  "hunterillager.config.structureSpacing": "邪猎者小屋生成间距",
+  "item.hunterillager.quiver.desc": "手持箭与大箭袋时，右击以将箭存到箭袋里。",
+  "subtitles.hunterillager.cheer": "邪猎者：欢呼",
+  "subtitles.hunterillager.death": "邪猎者：死亡",
+  "subtitles.hunterillager.hurt": "邪猎者：受伤",
+  "subtitles.hunterillager.idle": "邪猎者：喃喃"
+}

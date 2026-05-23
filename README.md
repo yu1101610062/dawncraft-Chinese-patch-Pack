@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > 必须下载Vault Patcher（VP）模组才能完整汉化！
-> **汉化支持整合包版本2.0.9f3，不支持最新版！**
+> **本分支适配 DawnCraft 2.0.16_hf。**
 
 
 - 需要为DawnCraft分配至少6GB运行内存，建议8-12G
@@ -9,7 +9,7 @@
 
 整合包下载地址|加载器|支持整合包版本|状态
 :-|:-|:-|:-
-[下载链接](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|Forge|1.18.2 2.0.9f3|**停止维护**|
+[下载链接](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|Forge|1.18.2 2.0.16_hf|个人适配更新|
 
 ## 整合包介绍
 

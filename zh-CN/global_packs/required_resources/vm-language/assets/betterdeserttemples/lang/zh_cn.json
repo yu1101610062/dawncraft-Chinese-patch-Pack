@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.applyMiningFatigue": "应用采矿疲劳",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.applyMiningFatigue.@Tooltip[0]": "神庙中的玩家是否会受到采矿疲劳的影响",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.applyMiningFatigue.@Tooltip[1]": "如果尚未清除。",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.disableVanillaPyramids": "禁用香草金字塔",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.disableVanillaPyramids.@Tooltip": "是否应禁用原版沙漠金字塔。",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMaxY": "沙漠神殿最大开始 Y",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMaxY.@Tooltip": "沙漠神殿可以生成的最大 y 值。",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMinY": "沙漠神殿最低开始时间 Y",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.option.general.startMinY.@Tooltip": "沙漠神殿可以生成的最小 y 值。",
+  "text.autoconfig.betterdeserttemples-fabric-1_18.title": "YUNG 的更好的沙漠寺庙"
+}

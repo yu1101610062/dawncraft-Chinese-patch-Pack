@@ -1,0 +1,15 @@
+{
+  "item.minecraft.lingering_potion.effect.absorption": "喷溅型伤害吸收药水",
+  "item.minecraft.lingering_potion.effect.dolphins_grace": "喷溅型海豚的恩惠药水",
+  "item.minecraft.lingering_potion.effect.haste": "喷溅型急迫药水",
+  "item.minecraft.potion.effect.absorption": "伤害吸收药水",
+  "item.minecraft.potion.effect.dolphins_grace": "海豚的恩惠药水",
+  "item.minecraft.potion.effect.haste": "急迫药水",
+  "item.minecraft.splash_potion.effect.absorption": "喷溅型伤害吸收药水",
+  "item.minecraft.splash_potion.effect.dolphins_grace": "喷溅型海豚的恩惠药水",
+  "item.minecraft.splash_potion.effect.haste": "喷溅型急迫药水",
+  "mob_spawner.type.creeper": "苦力怕",
+  "mob_spawner.type.skeleton": "骷髅",
+  "mob_spawner.type.zombie": "僵尸",
+  "stat.goblintraders.trade_with_goblin": "哥布林交易次数"
+}

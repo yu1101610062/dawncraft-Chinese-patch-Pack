@@ -1,49 +1,49 @@
 {
-	"parent": "quest_giver:quest_0014_01b",
-	"reputation": 5,
-	"icon": "minecraft:enchanted_book",
-	"start": {
-		"title": {
-			"text": "牛刀小试"
-		},
-		"description": {
-			"text": "完成任务要求后再回来——$(red)杀死10个掠夺者$()。"
-		}
-	},
-	"complete": {
-		"title": {
-			"text": "牛刀小试"
-		},
-		"description": {
-			"text": "来，在$(green)女神雕像$()那用这些进行你的第一次升级！如果你想学一些新技能，我建议你和这里的一些守卫聊聊，如果你想学点新技能的话。祝你旅途愉快。"
-		}
-	},
-	"tasks": [
-		{
-			"entity": "minecraft:pillager",
-			"id": "quest_giver:kill",
-			"times": 10
-		}
-	],
-	"rewards": [
-		{
-			"item": {
-				"item": "paraglider:spirit_orb"
-			},
-			"id": "quest_giver:item",
-			"times": 4
-		},
-		{
-			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"主线任务——哥布林之王的藏身之处\"",
-			"id": "quest_giver:command"
-		},
-		{
-			"command": "/loot give @p loot minecraft:guildmaster0",
-			"id": "quest_giver:command"
-		},
-		{
-			"command": "/gamestage add @p guildmaster2 true",
-			"id": "quest_giver:command"
-		}
-	]
+  "parent": "quest_giver:quest_0014_01b",
+  "reputation": 5,
+  "icon": "minecraft:enchanted_book",
+  "start": {
+    "title": {
+      "text": "牛刀小试"
+    },
+    "description": {
+      "text": "完成任务要求后再回来——$(red)杀死10个掠夺者$()。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "牛刀小试"
+    },
+    "description": {
+      "text": "来，在$(green)女神雕像$()那用这些进行你的第一次升级！如果你想学一些新技能，我建议你和这里的一些守卫聊聊，如果你想学点新技能的话。祝你旅途愉快。"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "minecraft:pillager",
+      "id": "quest_giver:kill",
+      "times": 10
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "paraglider:spirit_orb"
+      },
+      "id": "quest_giver:item",
+      "times": 4
+    },
+    {
+      "command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"主线任务——哥布林之王的藏身之处\"",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/loot give @p loot minecraft:guildmaster0",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster2 true",
+      "id": "quest_giver:command"
+    }
+  ]
 }

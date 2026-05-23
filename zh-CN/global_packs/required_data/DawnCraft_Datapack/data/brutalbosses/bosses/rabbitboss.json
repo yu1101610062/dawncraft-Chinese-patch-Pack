@@ -1,7 +1,7 @@
 {
   "entity": "minecraft:rabbit",
   "name": "\"极速者\"奇普",
-  "visualscale": "3.7",
+  "visualscale": 3.7,
   "experience": 400,
   "effects": {
     "minecraft:resistance": 1
@@ -10,10 +10,10 @@
     "generic.max_health": 60,
     "generic.follow_range": 50,
     "generic.knockback_resistance": 1,
-    "generic.movement_speed": "0.8"
+    "generic.movement_speed": 0.8
   },
   "customattributes": {
-    "attack_speed": "0.7"
+    "attack_speed": 0.7
   },
   "gear": {},
   "ai-goals": {

@@ -1,36 +1,36 @@
 {
-	"type": "minecraft:gift",
-	"pools": [
-		{
-			"rolls": 1.0,
-			"bonus_rolls": 0.0,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:map",
-					"functions": [
-						{
-							"function": "minecraft:exploration_map",
-							"destination": "custom:rootless",
-							"decoration": "red_x",
-							"zoom": 1,
-							"skip_existing_chunks": false
-						},
-						{
-							"function": "minecraft:set_name",
-							"name": "猎人的地图"
-						},
-						{
-							"function": "minecraft:set_lore",
-							"lore": [
-								{
-									"text": "猎人提供的前往一座漂浮的宫殿——无根浮宫的地图。"
-								}
-							]
-						}
-					]
-				}
-			]
-		}
-	]
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "custom:rootless",
+              "decoration": "red_x",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": "猎人的地图"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "猎人提供的前往一座漂浮的宫殿——无根浮宫的地图。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

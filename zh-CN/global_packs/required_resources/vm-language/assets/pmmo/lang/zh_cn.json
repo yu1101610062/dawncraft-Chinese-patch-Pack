@@ -1,0 +1,10 @@
+{
+  "pmmo.damageBonusGunslinging": "%1$s%% 枪械伤害加成",
+  "pmmo.faq": "常见问题解答！",
+  "pmmo.gunslinging": "枪战",
+  "pmmo.milestoneTotalXp": "%1$s 已获得 %2$s 点经验值。",
+  "pmmo.milestoneXpInSkill": "%1$s 在 %3$s 中获得了 %2$s 点经验值。",
+  "pmmo.notSkilledEnoughToTravelToDimension": "你的技能还不够，无法前往 %1$s 维度！",
+  "pmmo.perks.breathrefresh": "你的技巧延长了你的呼吸",
+  "pmmo.xpValuePlace": "地点 Xp 值"
+}

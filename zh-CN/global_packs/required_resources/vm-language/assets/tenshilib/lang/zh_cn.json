@@ -1,0 +1,22 @@
+{
+  "tenshilib.patreon.back": "回去",
+  "tenshilib.patreon.color": "颜色",
+  "tenshilib.patreon.id": "赞助人效应",
+  "tenshilib.patreon.id.cat": "猫",
+  "tenshilib.patreon.id.chomusuke": "长助",
+  "tenshilib.patreon.id.halo": "晕",
+  "tenshilib.patreon.id.megu_hat": "惠惠的帽子",
+  "tenshilib.patreon.level.no": "需要在一个世界中才能使用这个",
+  "tenshilib.patreon.location": "渲染位置",
+  "tenshilib.patreon.location.BACK": "后退",
+  "tenshilib.patreon.location.CIRCLING": "绕一圈",
+  "tenshilib.patreon.location.CIRCLINGREVERSE": "绕圈（反方向）",
+  "tenshilib.patreon.location.HAT": "帽子",
+  "tenshilib.patreon.location.HATNOARMOR": "没有头盔的帽子",
+  "tenshilib.patreon.location.LEFTSHOULDER": "左肩",
+  "tenshilib.patreon.location.RIGHTSHOULDER": "右肩",
+  "tenshilib.patreon.not": "在 patreon 上支持我使用这个。",
+  "tenshilib.patreon.render": "渲染效果",
+  "tenshilib.patreon.save": "节省",
+  "tenshilib.patreon.title": "TenshiLib Patreon 定制"
+}

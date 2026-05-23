@@ -1,0 +1,9 @@
+{
+  "entity.guardvillagers.guard": "警卫",
+  "guardinventory.armor": "护甲值：%s",
+  "guardinventory.health": "生命值：%s",
+  "item.guardvillagers.guard_spawn_egg": "警卫刷怪蛋",
+  "item.guardvillagers.illusioner_spawn_egg": "幻术师刷怪蛋",
+  "item.guardvillagers.iron_golem_spawn_egg": "铁傀儡刷怪蛋",
+  "item.guardvillagers.snow_golem_spawn_egg": "雪傀儡刷怪蛋"
+}

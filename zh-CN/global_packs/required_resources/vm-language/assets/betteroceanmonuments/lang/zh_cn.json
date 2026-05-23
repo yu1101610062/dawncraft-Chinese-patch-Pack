@@ -1,0 +1,10 @@
+{
+  "Use /locate betteroceanmonuments:ocean_monument instead!": "请使用 /locate betteroceanmonuments:ocean_monument 代替！",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.disableVanillaMonuments": "禁用香草海洋纪念碑",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.disableVanillaMonuments.@Tooltip": "是否应禁用香草海洋纪念碑。",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMaxY": "海洋纪念碑最大开始 Y",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMaxY.@Tooltip": "海洋纪念碑可以生成的最大 y 值。",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMinY": "海洋纪念碑最低开始时间 Y",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.option.general.startMinY.@Tooltip": "海洋纪念碑可以生成的最小 y 值。",
+  "text.autoconfig.betteroceanmonuments-fabric-1_18.title": "YUNG 更好的海洋纪念碑"
+}
