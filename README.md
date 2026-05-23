@@ -6,9 +6,9 @@
 - 请确保已安装 Java 18 或 17，否则可能会导致崩溃
 - 如果你是MacOS用户，请[查看此文档](https://vmhanhuazu.lanzouo.com/Dawncraft-mac)
 
-加载器|支持整合包版本|整合包更新时间|状态
-:-|:-|:-|:-
-Forge|1.18.2 / DawnCraft 2.0.16_hf|2025-11-20|个人适配更新|
+整合包下载地址|加载器|支持整合包版本|整合包更新时间|状态
+:-|:-|:-|:-|:-
+[下载链接](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|Forge|1.18.2 / DawnCraft 2.0.16_hf|2025-11-20|个人适配更新|
 
 ## 新增汉化内容
 
